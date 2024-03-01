@@ -1,4 +1,4 @@
-## Hello, I'm Andrea
+## Hello, I'm Andrea 👋
 
 ### About Me
 
@@ -34,8 +34,8 @@ I am a seasoned DevOps Engineer with three years of industry experience, special
 
 ### Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/andrea-moscato)
-- **Email:** [Your Email Address](mailto:andrea_moscato@protonmail.com)
+- **LinkedIn:** [Andrea Moscato](https://www.linkedin.com/in/andrea-moscato)
+- **Email:** [andrea_moscato@protonmail.com](mailto:andrea_moscato@protonmail.com)
 
 
 Feel free to reach out to discuss collaboration opportunities, share insights, or explore potential projects. I'm always open to connecting with like-minded professionals in the industry.
