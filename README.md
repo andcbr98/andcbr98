@@ -6,15 +6,15 @@ I am a seasoned DevOps Engineer with three years of industry experience, special
 
 ### Certifications
 
-- **Certified Kubernetes Administrator (CKA):** Proficient in deploying, maintaining, and troubleshooting Kubernetes clusters, ensuring scalability and reliability of containerized applications.
+- **Certified Kubernetes Administrator (CKA):** Proficient in deploying, maintaining and troubleshooting Kubernetes clusters, ensuring scalability and reliability of containerized applications.
   
 - **eLearnSecurity Junior Penetration Tester (eJPT):** Equipped with foundational skills in ethical hacking and penetration testing, adept at identifying and mitigating security vulnerabilities within systems and networks.
 
 - **Microsoft Azure Fundamentals (AZ-900):** Knowledgeable in foundational Azure concepts, services, and solutions, enabling efficient utilization of Microsoft Azure cloud platform for diverse workloads.
 
-- **Microsoft Azure Administrator (AZ-104):** Competent in managing Azure resources, implementing and maintaining Azure infrastructure, and ensuring the security and availability of Azure services.
+- **Microsoft Azure Administrator (AZ-104):** Competent in managing Azure resources, implementing and maintaining Azure infrastructure and ensuring the security and availability of Azure services.
 
-- **GitHub Foundations:** Proficient in utilizing GitHub for version control, collaboration, and code management, including creating repositories, branching, merging, and pull requests to facilitate effective software development workflows.
+- **GitHub Foundations:** Proficient in utilizing GitHub for version control, collaboration and code management, including creating repositories, branching, merging, and pull requests to facilitate effective software development workflows.
 
 ### Expertise
 
