@@ -14,6 +14,8 @@ I am a seasoned DevOps Engineer with three years of industry experience, special
 
 - **Microsoft Azure Administrator (AZ-104):** Competent in managing Azure resources, implementing and maintaining Azure infrastructure, and ensuring the security and availability of Azure services.
 
+- **GitHub Foundations:** Proficient in utilizing GitHub for version control, collaboration, and code management, including creating repositories, branching, merging, and pull requests to facilitate effective software development workflows.
+
 ### Expertise
 
 - **DevOps:** Skilled in implementing DevOps practices and methodologies to enhance collaboration between development and operations teams, automate software delivery processes, and accelerate time-to-market.
