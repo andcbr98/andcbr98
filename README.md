@@ -28,7 +28,7 @@ I am a seasoned DevOps Engineer with three years of industry experience, special
 
 - **Automated CI/CD Pipeline:** Designed and implemented a robust CI/CD pipeline using Jenkins or GitHub Actions for automating build, test and deployment processes, ensuring seamless software delivery.
 
-- **Kubernetes Cluster Setup:** Orchestrated the deployment of Kubernetes clusters on cloud platforms (Azure Kubernetes Service, Google Kubernetes Engine) or on-premises environments, ensuring high availability, scalability and security.
+- **Kubernetes Cluster Setup:** Orchestrated the deployment of Kubernetes clusters on cloud platforms (Azure Kubernetes Service) or on-premises environments, ensuring high availability, scalability and security.
 
 - **Infrastructure Automation:** Developed automation scripts and workflows using Ansible and PowerShell to automate provisioning, configuration and management of cloud infrastructure and application environments.
 
