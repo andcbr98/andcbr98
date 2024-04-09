@@ -4,7 +4,7 @@ I am a seasoned DevOps Engineer with three years of industry experience, special
 
 ### Certifications
 
-- *** Certified Kubernetes Administrator (CKA):***
+- ***Certified Kubernetes Administrator (CKA):***
 
 Proficient in deploying, maintaining and troubleshooting Kubernetes clusters, ensuring scalability and reliability of containerized applications.
   
