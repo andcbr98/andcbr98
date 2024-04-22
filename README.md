@@ -1,6 +1,6 @@
 ### About Me
 
-I am a seasoned DevOps Engineer with three years of industry experience, specializing in cloud infrastructure management, automation and Kubernetes orchestration. My passion lies in streamlining development processes, optimizing system performance and ensuring robust deployment pipelines for efficient software delivery.
+I am a seasoned DevOps Engineer and Azure Administrator with three years of industry experience, specializing in cloud infrastructure management, automation and Kubernetes orchestration. My passion lies in streamlining development processes, optimizing system performance and ensuring robust deployment pipelines for efficient software delivery.
 
 ### Certifications
 
