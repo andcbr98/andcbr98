@@ -1,28 +1,10 @@
 ### About Me
 
-I am a seasoned DevOps Engineer and Azure Administrator with three years of industry experience, specializing in cloud infrastructure management, automation and Kubernetes orchestration. My passion lies in streamlining development processes, optimizing system performance and ensuring robust deployment pipelines for efficient software delivery.
+I am a seasoned DevOps Engineer and Azure Architect with three years of industry experience, specializing in cloud infrastructure management, automation and Kubernetes orchestration. My passion lies in streamlining development processes, optimizing system performance and ensuring robust deployment pipelines for efficient software delivery.
 
 ### Certifications
 
-- **Certified Kubernetes Administrator (CKA):**
-
-Proficient in deploying, maintaining and troubleshooting Kubernetes clusters, ensuring scalability and reliability of containerized applications.
-  
-- **eLearnSecurity Junior Penetration Tester (eJPT):**
-
-Equipped with foundational skills in ethical hacking and penetration testing, adept at identifying and mitigating security vulnerabilities within systems and networks.
-
-- **Microsoft Azure Fundamentals (AZ-900):**
-
-Knowledgeable in foundational Azure concepts, services and solutions, enabling efficient utilization of Microsoft Azure cloud platform for diverse workloads.
-
-- **Microsoft Azure Administrator (AZ-104):**
-
-Competent in managing Azure resources, implementing and maintaining Azure infrastructure and ensuring the security and availability of Azure services.
-
-- **GitHub Foundations:**
-
-Proficient in utilizing GitHub for version control, collaboration and code management, including creating repositories, branching, merging and pull requests to facilitate effective software development workflows.
+<img src="certs/AZ900.svg" alt="AZ-900" width="100" /> <img src="certs/AZ104.svg" alt="AZ-104" width="100" /> <img src="certs/AZ305.svg" alt="AZ-305" width="100" /> <img src="certs/cka.png" alt="CKA" width="100" /> <img src="certs/ejpt.png" alt="eJPT" width="100" /> <img src="certs/githubfoundations.png" alt="GitHub Foundations" width="100" />
 
 ### Expertise
 
