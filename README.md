@@ -27,7 +27,7 @@ I am a seasoned DevOps Engineer and Azure Architect with three years of industry
 ### Get in Touch
 
 - **LinkedIn:** [Andrea Moscato](https://www.linkedin.com/in/andrea-moscato)
-- **Email:** [andrea_moscato@protonmail.com](mailto:andreamos2909@gmail.com)
+- **Email:** [andreamos2909@gmail.com](mailto:andreamos2909@gmail.com)
 
 
 Feel free to reach out to discuss collaboration opportunities, share insights, or explore potential projects. I'm always open to connecting with like-minded professionals in the industry.
