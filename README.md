@@ -4,7 +4,7 @@ I am a seasoned DevOps Engineer and Azure Architect with three years of industry
 
 ### Certifications
 
-<img src="certs/AZ900.svg" alt="AZ-900" width="100" /> <img src="certs/AZ104.svg" alt="AZ-104" width="100" /> <img src="certs/AZ305.svg" alt="AZ-305" width="100" /> <img src="certs/terraform-associate.png" alt="Terraform Associate (003)" width="100" /> <img src="certs/cka.png" alt="CKA" width="100" /> <img src="certs/ejpt.png" alt="eJPT" width="100" /> <img src="certs/githubfoundations.png" alt="GitHub Foundations" width="100" />
+<img src="certs/AZ900.svg" alt="AZ-900" width="100" /> <img src="certs/AZ104.svg" alt="AZ-104" width="100" /> <img src="certs/AZ305.svg" alt="AZ-305" width="100" /> <img src="certs/terraform-associate.png" alt="Terraform Associate (003)" width="100" /> <img src="certs/cka.png" alt="CKA" width="100" /> <img src="certs/githubfoundations.png" alt="GitHub Foundations" width="100" /> <img src="certs/ejpt.png" alt="eJPT" width="100" />
 
 ### Expertise
 
